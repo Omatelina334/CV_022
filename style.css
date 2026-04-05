@@ -1,0 +1,23 @@
+/* CV Rafie Maulana - Simple Bootstrap Customization */
+
+body {
+    color: #333;
+}
+
+/* Hero section */
+.hero-img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #dee2e6;
+}
+
+/* Profile photo */
+.profile-photo {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #dee2e6;
+}
